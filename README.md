@@ -1,2 +1,2 @@
 #Chatbot by c 
-<h1 style.color:"orange";>Author: Ranjan kumar</h1>
+<h1 style="color: orange;">Author: Ranjan kumar</h1>
